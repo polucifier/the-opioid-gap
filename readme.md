@@ -38,6 +38,6 @@ When comparing the USA and Europe, several critical methodological differences h
 
 ---
 
-**Author:** [Bc. Mykhailo Rachenko]
-**Project:** 155PKAR at CTU in Prague
-**Tools:** QGIS 3.44.7, Python (Pandas), LibreOffice Calc/Draw
+* **Author:** [Bc. Mykhailo Rachenko]
+* **Project:** 155PKAR at CTU in Prague
+* **Tools:** QGIS 3.44.7, Python (Pandas), LibreOffice Calc/Draw
