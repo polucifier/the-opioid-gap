@@ -32,7 +32,7 @@ When comparing the USA and Europe, the critical methodological differences had t
 * **Temporal Scope:** Map visualizations represent data for the reference year 2023. For jurisdictions where 2023 metrics were not available, the latest available figures preceding 2023 were utilized to ensure maximum geographic coverage.
 ## 📂 Repository Structure
 
-* `/images`: Images in `.svg` format that were used in the map.
+* `/images`: Images that were used in the map.
 * `/processed data`: Final CSV tables used for QGIS import.
 * `/raw data`: Raw tables downloaded from the sources and the script for processing.
 * `readme.md`: This methodological overview.
