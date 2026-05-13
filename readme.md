@@ -29,8 +29,7 @@ The processing workflow consisted of several stages:
 When comparing the USA and Europe, the critical methodological differences had to be addressed:
 
 * **Prescription Metrics:** The USA reports data as *number of prescriptions per 100 residents* (Rx per 100), whereas Europe uses *Defined Daily Doses* (DDD per 1000 inhabitants/day). The poster utilizes a dual legend to allow for the correct interpretation of both metrics simultaneously.
-* **Temporal Scope:** To ensure the most recent and comparable snapshot for both regions, all primary map visualizations represent data from the year 2023 or the most recent available.
-
+* **Temporal Scope:** Map visualizations represent data for the reference year 2023. For jurisdictions where 2023 metrics were not available, the latest available figures preceding 2023 were utilized to ensure maximum geographic coverage.
 ## 📂 Repository Structure
 
 * `/processed data`: Final CSV tables used for QGIS import.
