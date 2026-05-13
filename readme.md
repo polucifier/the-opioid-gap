@@ -36,6 +36,7 @@ When comparing the USA and Europe, the critical methodological differences had t
 * `/processed data`: Final CSV tables used for QGIS import.
 * `/raw data`: Raw tables downloaded from the sources and the script for processing.
 * `readme.md`: This methodological overview.
+* `the opioid gap.pdf`: The final map.
 
 ---
 
