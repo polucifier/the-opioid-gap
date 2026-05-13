@@ -29,6 +29,7 @@ The processing workflow consisted of several stages:
 When comparing the USA and Europe, the critical methodological difference had to be addressed:
 
 * **Prescription Metrics:** The USA reports data as *number of prescriptions per 100 residents* (Rx per 100), whereas Europe uses *Defined Daily Doses* (DDD per 1000 inhabitants/day). The poster utilizes a dual legend to allow for the correct interpretation of both metrics simultaneously.
+* **Temporal Scope:** To ensure the most recent and comparable snapshot for both regions, all primary map visualizations represent data from the year 2023 or the most recent available.
 
 ## 📂 Repository Structure
 
