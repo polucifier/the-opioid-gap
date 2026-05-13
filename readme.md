@@ -12,6 +12,7 @@ The data used in this analysis were sourced from the following institutions:
 * **European Prescriptions:** [OECD](https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_HCQO%40DF_PIPC&df[ag]=OECD.ELS.HD&dq=.A.PROPOUDD.DDD_10P3HB.Y_GE18._T.OBS..&pd=2009%2C2024&to[TIME_PERIOD]=false&vw=tb) (The Organization for Economic Cooperation and Development).
 * **European Populations:** [EUROSTAT](https://ec.europa.eu/eurostat/databrowser/view/demo_pjanbroad/default/table?lang=en) (Population for Crude Rate calculation).
 * **Geodata:** [Natural Earth](https://www.naturalearthdata.com/) (administrative boundaries for countries and US states).
+* **Images:** [DEA](https://www.dea.gov/) (Drug Enforcement Administration), [Wikipedia](https://www.wikipedia.org), [Google Gemini](https://gemini.google.com)
 
 ## 🛠️ Data Processing Pipeline
 
