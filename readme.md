@@ -21,12 +21,12 @@ The processing workflow consisted of several stages:
 2.  **Normalization:** To ensure comparability, mortality data were normalized to a rate of **per 100,000 inhabitants** (Crude Rate).
 3.  **Attribute Join:** Cleaned data were joined with vector layers in **QGIS 3.44.7** using unique ISO country codes.
 4.  **Visualization:**
-    * Prescription intensity was visualized using **Rule-based symbology** (variable density hatching).
-    * Charts were generated in LibreOffice Draw and exported as **SVG** (converted to curves to ensure rendering integrity in QGIS).
+    * Prescription intensity was visualized using **Rule-based symbology** (variable density patterns).
+    * The chart was generated in LibreOffice Calc and exported in LibreOffice Draw as **SVG**.
 
 ## ⚠️ Methodological Notes
 
-When comparing the USA and Europe, several critical methodological differences had to be addressed:
+When comparing the USA and Europe, the critical methodological difference had to be addressed:
 
 * **Prescription Metrics:** The USA reports data as *number of prescriptions per 100 residents* (Rx per 100), whereas Europe uses *Defined Daily Doses* (DDD per 1000 inhabitants/day). The poster utilizes a dual legend to allow for the correct interpretation of both metrics simultaneously.
 
